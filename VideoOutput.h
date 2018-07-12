@@ -46,7 +46,7 @@ public:
     void paint(QPainter *painter)
     {
         painter->setRenderHint(QPainter::Antialiasing);
-        painter->drawImage(0, 0, QImage(""));
+        painter->drawImage(0, 0, QImage(":/Screen/main_cpp.png"));
     }
 };
 

@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>Screen/main_cpp.png</file>
     </qresource>
 </RCC>
